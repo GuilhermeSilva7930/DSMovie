@@ -1,3 +1,4 @@
+import React from 'react';
 import MovieStars from '../MovieStars/index';
 import './styles.css'
 

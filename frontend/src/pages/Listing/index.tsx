@@ -1,5 +1,6 @@
 import Pagination from "Components/Pagination";
 import MovieCard from "Components/MovieCard";
+import React from "react";
 import './styles.css'
 
 function Listing() {
